@@ -68,5 +68,16 @@ def log_url(item: LogItem):
 @app.get("/logs")
 def get_logs():
     db = SessionLocal()
-    return db.query(Log).all()
+    logs = db.query(Log).all()
+
+    # Count categories
+    category_counts = {}
+    for log in logs:
+        cat = log.category or "other"
+        category_counts[cat] = category_counts.get(cat, 0) + 1
+
+    return {
+        "logs": logs,
+        "categories": category_counts
+    }
 
