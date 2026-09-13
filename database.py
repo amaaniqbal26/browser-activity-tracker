@@ -16,4 +16,7 @@ class Log(Base):
     url = Column(String, nullable=False)
     timestamp = Column(DateTime, default=datetime.utcnow)
 
+    # New fields
+    domain = Column(String, nullable=True)
+    category = Column(String, nullable=True)
 
