@@ -173,6 +173,15 @@ Retrieve logged activity and category data.
 
 ---
 
+## What Makes This Special
+
+- **Full-Stack**: Frontend, backend, and database all built from scratch
+- **Analytics Focus**: Not just a CRUD app - actual data insights
+- **Beautiful Design**: Dark theme with Tailwind CSS, professional UI
+- **Scalable**: Built with production patterns (SQLAlchemy ORM, proper error handling)
+
+--- 
+
 ## What I Learned
 
 - Building a full-stack application
@@ -191,6 +200,12 @@ Retrieve logged activity and category data.
 - Export analytics
 - User accounts
 - AI-powered insights
+
+---
+
+## Demo
+
+https://www.loom.com/share/86d1043907b849839245ebe8ca5c9197
 
 ---
 
