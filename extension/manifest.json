@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Browser Activity Visualizer",
+  "version": "1.0",
+  "description": "Logs visited URLs and sends them to a backend API.",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
+
