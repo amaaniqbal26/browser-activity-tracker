@@ -165,10 +165,13 @@ Retrieve logged activity and category data.
 
 ### Install Chrome Extension
 
-1. Navigate to `chrome://extensions/`
-2. Enable "Developer mode"
-3. Click "Load unpacked" and select the `extension/` folder
-4. Extension will appear in your toolbar
+1. Clone this repository
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable "Developer Mode" (toggle on top right)
+4. Click "Load unpacked"
+5. Select the `extension/` folder from this repo
+6. The extension will appear in your toolbar
+
 
 ---
 ## Screenshots
