@@ -233,5 +233,7 @@ MIT
 ## Author
 
 Author: Amaan Iqbal
-linkedin: https://linkedin.com/in/amaan-iqbal26
-GitHub: https://github.com/amaaniqbal26
+
+- linkedin: https://linkedin.com/in/amaan-iqbal26
+
+- GitHub: https://github.com/amaaniqbal26
