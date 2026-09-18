@@ -227,3 +227,11 @@ https://www.loom.com/share/86d1043907b849839245ebe8ca5c9197
 ## License
 
 MIT
+
+---
+
+## Author
+
+Author: Amaan Iqbal
+linkedin: https://linkedin.com/in/amaan-iqbal26
+GitHub: https://github.com/amaaniqbal26
